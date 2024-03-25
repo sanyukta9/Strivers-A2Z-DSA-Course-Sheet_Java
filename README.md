@@ -12,13 +12,8 @@ Step 1: Learn the basics
 7. Functions (Pass by Reference and Value)
 
 1.2
-# All Pattern Problems
+- All Pattern Problems
 
 1.3
-Basic Maths
+- Basic Maths
 
-1.4
-Basic Recursion
-
-1.5
-Basic Hashing
