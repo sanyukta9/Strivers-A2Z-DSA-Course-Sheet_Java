@@ -8,9 +8,8 @@ Step 1: Learn the basics
 3. If Else statements		
 4. Switch Statement		
 5. For loops		
-6. While loops		
-7. Functions (Pass by Reference and Value)
-
+6. While loops
+   
 1.2
 - All Pattern Problems
 
